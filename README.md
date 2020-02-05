@@ -1,8 +1,8 @@
 # CellTowerSim
-A simulation for cell towers tracking vehicles.
+A simulation for cell towers tracking vehicles. Created as an assignment at CarletonU.
 
 Eric Pham
-A past school assignment
+
 
 ------------------------
 
