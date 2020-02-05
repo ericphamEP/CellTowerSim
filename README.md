@@ -6,6 +6,14 @@ A past school assignment
 
 ------------------------
 
+Screenshots:
+
+Simulation in Action
+![simulator](/images/networksAndCars.png)
+
+Cell Towers
+![towers](/images/networks.png)
+
 Source Files:
 - cellTower.c
 - display.c
